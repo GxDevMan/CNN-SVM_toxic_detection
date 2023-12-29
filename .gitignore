@@ -1,0 +1,37 @@
+# Jupyter Lab
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb_meta/
+
+# Jupyter Lab temporary files
+.jupyter/
+
+# Jupyter Lab workspace
+/lab/
+
+# Jupyter Lab environment folder
+env/
+
+# Jupyter Lab cache
+__pycache__/
+
+# Jupyter Lab log files
+jupyterlab-debug-*.log
+
+# Jupyter Lab session files
+*.json
+
+# Jupyter Lab lock files
+.jupyterlab-workspace/
+
+# Jupyter Lab virtual environment
+venv/
+
+
+# ignore training files, models and others not needed
+*.csv
+*.xlsx
+*.db
+*.h5
+*.pkl
+*.txt
